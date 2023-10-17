@@ -10,20 +10,20 @@ Foi incrível criar este aplicativo! Durante o processo de desenvolvimento, pude
 
 
 <div align="center">
+<img src="https://github.com/itsSouza/Motivation/assets/84996699/fd3eecef-b9d7-4c9a-979c-b4a4d277d26a" width="200px" />
+</div>
+
+<div align="center">
 <img src="https://github.com/itsSouza/Motivation/assets/84996699/1ccc2010-cd67-4505-a1b3-99d472807ff7" width="200px" />
 </div>
 
-<div align="center">
-<img src="https://github.com/itsSouza/FirstApp/assets/84996699/c97ea7eb-4d1d-4152-8655-d864c85ce447" width="200px" />
-</div>
-
 
 <div align="center">
-<img src="https://github.com/itsSouza/FirstApp/assets/84996699/c97ea7eb-4d1d-4152-8655-d864c85ce447" width="200px" />
+<img src="https://github.com/itsSouza/Motivation/assets/84996699/619d311b-3fdf-473f-8ad1-337aaef7b2fd" width="200px" />
 </div>
 
 
 
 <div align="center">
-<img src="https://github.com/itsSouza/FirstApp/assets/84996699/c97ea7eb-4d1d-4152-8655-d864c85ce447" width="200px" />
+<img src="https://github.com/itsSouza/Motivation/assets/84996699/a393426c-aaf8-4fbe-83a4-33036eb5c660" width="200px" />
 </div>
