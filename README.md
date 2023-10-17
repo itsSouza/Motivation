@@ -10,7 +10,7 @@ Foi incrível criar este aplicativo! Durante o processo de desenvolvimento, pude
 
 
 <div align="center">
-<img src="![home-pt](https://github.com/itsSouza/Motivation/assets/84996699/1ccc2010-cd67-4505-a1b3-99d472807ff7)" width="200px" />
+<img src="https://github.com/itsSouza/Motivation/assets/84996699/1ccc2010-cd67-4505-a1b3-99d472807ff7" width="200px" />
 </div>
 
 <div align="center">
