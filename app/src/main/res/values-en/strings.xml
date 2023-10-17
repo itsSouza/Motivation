@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="hello_user">Hello</string>
+    <string name="phrases">Riscos devem ser corridos, porque o maior perigo é não arriscar nada!</string>
+    <string name="new_phrase">New phrase</string>
+    <string name="welcome">Let\'s get started?</string>
+    <string name="name">>What\'s your name?</string>
+    <string name="save">Save</string>
+    <string name="validation_name">Inform your name</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/image_all"
+        android:layout_width="140dp"
+        android:layout_height="70dp"
+        android:padding="16dp"
+        android:src="@drawable/baseline_all_inclusive_24"
+        android:background="@color/purpple"
+        app:tint="@color/white"
+
+        />
+
+    <ImageView
+        android:id="@+id/image_happy"
+        android:layout_width="140dp"
+        android:layout_height="70dp"
+        android:padding="16dp"
+        android:src="@drawable/baseline_emoji_emotions_24"
+        android:layout_centerHorizontal="true"
+        android:layout_toEndOf="@id/image_all"
+        android:background="@color/purpple"
+        />
+    <ImageView
+        android:id="@+id/image_sunny"
+        android:layout_width="140dp"
+        android:layout_height="70dp"
+        android:padding="16dp"
+        android:src="@drawable/baseline_wb_sunny_24"
+        android:layout_toEndOf="@id/image_happy"
+        android:background="@color/purpple"
+        />
+
+    <TextView
+        android:id="@+id/text_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_user"
+        android:fontFamily="@font/cabin"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_below="@id/image_happy"
+        android:paddingTop="20sp"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:id="@+id/text_phrases"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cabin"
+        android:gravity="center"
+        android:paddingTop="360dp"
+        android:text="@string/app_name"
+        android:textColor="@color/black"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        android:textSize="18sp"/>
+
+    <View
+        android:layout_width="135sp"
+        android:layout_height="2dp"
+        android:layout_below="@id/text_phrases"
+        android:background="@color/purpple"
+       android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <Button
+        android:id="@+id/button_new_phrase"
+        android:layout_width="220sp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:text="@string/new_phrase"
+        android:textSize="12sp"
+        android:fontFamily="@font/cabin"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/purpple"
+        android:layout_marginBottom="20dp"
+        />
+
+
+</RelativeLayout>
